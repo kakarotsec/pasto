@@ -33,7 +33,7 @@
 ## How It Works
 
 1. Open [usepasto.vercel.app](https://usepasto.vercel.app) on your first device.
-2. Scan the QR code (or enter the PIN) on your second device.
+2. Open [usepasto.vercel.app](https://usepasto.vercel.app) on your second device. Scan the QR code (or enter the PIN) on your second device.
 3. Paste text or drop files — everything syncs in real time.
 
 <div align="center">
