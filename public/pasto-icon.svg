@@ -1,0 +1,9 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ghost square (back, faded) -->
+  <rect x="6" y="6" width="34" height="34" rx="8" fill="hsl(221, 83%, 53%)" opacity="0.35" stroke="hsl(221, 83%, 53%)" stroke-opacity="0.25" stroke-width="1.5" />
+  <!-- Solid square (front) -->
+  <rect x="24" y="24" width="34" height="34" rx="8" fill="hsl(221, 83%, 53%)" />
+  <rect x="24" y="24" width="34" height="34" rx="8" fill="none" stroke="hsl(221, 83%, 70%)" stroke-width="1" />
+  <!-- Subtle top-left shine on front square -->
+  <path d="M24 36 V24 H38" fill="none" stroke="hsla(0,0%,100%,0.18)" stroke-width="1.5" />
+</svg>
